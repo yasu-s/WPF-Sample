@@ -1,4 +1,4 @@
-﻿namespace WPF_Sample
+﻿namespace WPF_Sample.ViewModel
 {
     using System;
     using System.Collections.Generic;
